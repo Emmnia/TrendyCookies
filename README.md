@@ -8,12 +8,14 @@ TrendyCookies is a web application for an online store that sells handmade cooki
 - Shopping cart for adding and managing selected items
 - Order placement with customer details and delivery options
 - Responsive design for seamless usage on various devices
+- Cookie-themed preloader animation using Lottie Player
 
 ## Technologies
 
 - Angular 19
 - TypeScript
 - HTML5 & CSS3
+- Lottie Player
 
 ## Installation
 
